@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://piu-idbproject.unej.ac.id/wp-content/upgrade/-/slot-thailand/sitemap.xml
